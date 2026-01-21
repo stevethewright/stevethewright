@@ -1,9 +1,5 @@
 ## Stephen Wright
 
-### Software Developer for QinetiQ Australia
-
-<a href="https://app.daily.dev/stevethewright"><img src="https://api.daily.dev/devcards/v2/te5yzqF2Bsukz7qE2lVJo.png?type=default&r=5yh" width="356" alt="Stephen's Dev Card"/></a>
-
 <!--
 **stevethewright/stevethewright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
